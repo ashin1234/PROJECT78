@@ -1,4 +1,4 @@
-images=["img1.jpg","img2.jpg"];
+images=["img1.JPG","img2.JPG"];
 names=["Myfamily","familyonatrip"];
 var i=0;
 function next(){
